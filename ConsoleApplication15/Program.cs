@@ -18,7 +18,7 @@ namespace ConsoleApplication15
             Fornecedor fornecedor = new Fornecedor();
 
             //menu cadastrar
-            Console.WriteLine("Opções:\n1 - Cadastrar produto\n2 - Cadastrar fornecedor");
+            Console.WriteLine("Opções:\n1 - Cadastrar produto\n2 - Cadastrar fornecedor teste");
             Console.WriteLine("\nInforme a opção desejada: ");
             int opc = int.Parse(Console.ReadLine());
             
